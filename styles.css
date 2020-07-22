@@ -1,0 +1,102 @@
+body{
+    color: #40514E;
+  margin: 0;
+  text-align:center;
+}
+h1{
+    margin:0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    margin: 90px auto -30px auto;
+    color: #66BFBF;
+    
+}
+#myprofile{
+    height: 180px;
+    width:180px;
+}
+#myweb{
+
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+#mybike{
+    width:25%;
+    float:right;
+    margin-left: 27px;
+}
+.top-container{
+    
+    background-color:#E5F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    margin:30px auto auto auto;
+   
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  
+}
+.bottomcloud{
+    position: absolute;
+    left:50px;
+
+}
+.topcloud{
+    position:absolute;
+    right:70px;
+    top:20px;
+
+}
+
+h2{
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Delius', cursive;
+    color: #11999E;
+}
+p{
+    font-size: 25px;
+}
+a{
+    color: #11999E;
+}
+#stud{
+    font-weight: normal;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left; 
+}
+
+hr{
+    width:7%;
+    border-style: dotted none none none ;
+    border-width: 10px;
+    border-color: #EAF6F6;
+    margin:70px auto;
+}
+.contactmsg{
+    width: 40%;
+    margin:40px auto ;
+}
+.footer-link{
+ text-decoration: none;
+ margin: 10px 20px;   
+}
+a:hover{
+    color: #EAF6F6;
+}
+#copyright{
+    color:#EAF6F6;
+    font-family: 'Delius', cursive;
+    font-size:0.75rem ;
+}
